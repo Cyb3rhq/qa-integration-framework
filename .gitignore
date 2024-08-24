@@ -22,7 +22,7 @@ __pycache__
 # Ignore all local history of files
 .history
 
-# Wazuh tools installation files
+# Cyb3rhq tools installation files
 build/
 dist/
 *.egg-info/
